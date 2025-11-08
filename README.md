@@ -6,3 +6,6 @@ khushboo verma
 
 # student
 Delta student
+
+# girl
+all girl
